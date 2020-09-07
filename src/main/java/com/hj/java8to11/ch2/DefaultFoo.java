@@ -1,6 +1,6 @@
 package com.hj.java8to11.ch2;
 
-public class DefaultFoo implements Foo{
+public class DefaultFoo implements Foo {
     String name;
 
     public DefaultFoo(String name) {
