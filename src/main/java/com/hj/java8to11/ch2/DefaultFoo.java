@@ -1,4 +1,4 @@
-package com.hj.java8to11;
+package com.hj.java8to11.ch2;
 
 public class DefaultFoo implements Foo{
     String name;

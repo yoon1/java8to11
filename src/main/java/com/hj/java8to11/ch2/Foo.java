@@ -1,4 +1,4 @@
-package com.hj.java8to11;
+package com.hj.java8to11.ch2;
 
 import java.util.Collection;
 import java.util.function.*;
